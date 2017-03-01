@@ -16,3 +16,15 @@
     color: pink;
     height: 150px;
 }
+
+/*==========MEDIA QUERIES==========*/
+@media screen and (min-width: 375px) {
+    .col-sm-6 {
+        background-color: green;
+    }
+}
+@media screen and (min-width: 768px) {
+    .col-sm-6 {
+        background-color: blue;
+    }
+}
