@@ -1,0 +1,18 @@
+.col-sm-6 {
+    background-color: #f00;
+    border: 5px solid #fff;
+    color: #fff;
+    height: 200px;
+}
+.col-xs-12 {
+    background-color: #ff5000;
+    border: 5px solid #000;
+    color: #fff;
+    height: 300px;
+}
+.col-md-4 {
+    background-color: #0f0;
+    border: 5px solid pink;
+    color: pink;
+    height: 150px;
+}
